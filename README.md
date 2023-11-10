@@ -1,4 +1,3 @@
-## Pon
 ![EDGAR](https://github.com/edgar-code/edgar-code/blob/main/EDGAR-3.0-STAR-LITELE.png)
 
 <!--
