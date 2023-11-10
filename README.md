@@ -1,5 +1,5 @@
-### Pon
-![EDGAR](https://github.com/edgar-code/edgar-code/blob/main/EDGAR-3.0-STAR.png)
+## Pon
+![EDGAR](https://github.com/edgar-code/edgar-code/blob/main/EDGAR-3.0-STAR-LITELE.png)
 
 <!--
 **edgar-code/edgar-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
